@@ -1,0 +1,6 @@
+{
+  "name": "Chaos Tic-Tac-Toe - Ultimate Arcade Battle",
+  "description": "A chaotic, strategic multiplayer Tic-Tac-Toe battle featuring 7 game-changing abilities, privacy handover, smart AI, dynamic board expansion, and comprehensive statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
